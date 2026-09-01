@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pic_small.JPG">
 
-Welcome! Johnny has more than 14 years of quality/manufacturing experience in Globe Enterprise as well as training and coaching experience. 
+Welcome! Johnny has more than 25 years of quality/manufacturing experience in Globe Enterprise as well as training and coaching experience. 
 
 Johnny had been worked in the world top-500 Sanmina-SCI as QA manager and Six Sigma implementation Director. He had been responsible for the company training work, implement Six Sigma and the technical QC tooling and SPC/MSA/FMEA/APQP/PPAP/APQP/DOE etc into operation system to
 improve the quality and reduce cost、conduct process audit and quality system to improve the
