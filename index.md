@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile_pic_small.jpg">
+<img class="profile-picture" src="profile_pic_small.JPG">
 
 Welcome! Johnny has more than 14 years of quality/manufacturing experience in Globe Enterprise as well as training and coaching experience. 
 
