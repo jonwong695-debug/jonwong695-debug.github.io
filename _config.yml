@@ -2,6 +2,7 @@ title: Sebastián Vallejo Vera
 description: The Webpage of Sebastián Vallejo Vera, Ph.D.
 baseurl: "https://www.svallejovera.com"
 repository: jonwong695-debug/jonwong695-debug.github.io
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
