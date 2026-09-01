@@ -1,6 +1,6 @@
-title: Sebastián Vallejo Vera
-description: The Webpage of Sebastián Vallejo Vera, Ph.D.
-baseurl: "https://www.svallejovera.com"
+title: Zhenjun Wang
+description: The Webpage of Zhenjun Wang.
+# baseurl: "https://www.svallejovera.com"
 repository: jonwong695-debug/jonwong695-debug.github.io
 remote_theme: jonwong695-debug/jonwong695-debug.github.io
 # remote_theme: ankitsultana/researcher@gem
@@ -10,20 +10,20 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page based on a design by Ankit Sultana"
+footer: no
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page based on a design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Resume"
-   link: "vallejo cv.pdf"
+ # - name: "Resume"
+ #   link: "vallejo cv.pdf"
  - name: "Contact"
    link: "contact"
- - name: "iLCSS"
-   link: "https://ilcss.umd.edu/"
- - name: "Teaching"
-   link: "teaching"
+ # - name: "iLCSS"
+ #   link: "https://ilcss.umd.edu/"
+ # - name: "Teaching"
+ #   link: "teaching"
