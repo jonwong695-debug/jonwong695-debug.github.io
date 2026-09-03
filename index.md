@@ -6,8 +6,8 @@ layout: default
 
 <img class="profile-picture" src="profile_pic_small.JPG">
 
-Johnny Wang – Professional Profile
-  Johnny brings over 25 years of hands-on experience in quality management, Lean Six Sigma deployment, and data-driven continuous improvement. Over the past decade, he has focused extensively on technical consulting and project development within the tobacco industry.
+Johnny Wang – Professional Profile<br>
+  Johnny brings over 25 years of hands-on experience in quality management, Lean Six Sigma deployment, and data-driven continuous improvement. Over the past decade, he has focused extensively on technical consulting and project development within the tobacco industry.<br>
   He currently serves as Senior Product Manager and Tobacco Industry Director at China Haisum Engineering Co., Ltd. (Stock Code: 002116), within the Smart Manufacturing Division. In this role, he leads smart factory planning, digital delivery, and full-line digital intelligence upgrade initiatives for the tobacco sector — helping traditional plants transition through digital and intelligent transformation.
   Prior to joining Haisum, Johnny spent 11 years as General Manager of Shanghai YLZQ Management Consulting Co., Ltd., where he oversaw overall operations and business development. As lead consultant, he introduced Shainin DOE into more than 10 China Tobacco subsidiaries, delivering over 60 specialized improvement projects with a total consulting value exceeding RMB 40 million.
   Earlier, as Senior Consultant & Project Manager at Omnex (Shanghai ) Consulting, he managed Lean Six Sigma business development and US-based project execution — including a supply chain integration project for a global top automaker, involving over 1,000 man-days and a contract value of RMB 15 million.
